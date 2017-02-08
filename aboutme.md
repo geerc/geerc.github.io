@@ -4,7 +4,7 @@ title: About me
 subtitle: Everything there is to know about me
 ---
 
-TL;DR: I am from Jenkintown, PA and am currently a freshman at Allegheny College with interessts in Economics and Computer Science, who is also on the Varsity Cross Country and Track teams.
+TL;DR: I am from Jenkintown, PA and am currently a freshman at Allegheny College with interests in Economics and Computer Science, who is also on the Varsity Cross Country and Track teams.
 
 I was born and raised in Jenkintown, PA, a tiny suburb just outside of Philadelphia, and attended Jenkintown Elementary, Middle, and High Schools. In my youth I spent most of my time participating in many different sports. Among these were baseball, soccer, basketball, skiing, football, along with others that were simply created by my friends and I. During my years at Jenkintown I was deeply involved in athletics, earning numerous accolades in Cross Country, Baseball, and Track, as well as serving on the Athletic Advisory Committee. Other organizations that I was a part of include National Honor Society and World Language Honor Society.
 
