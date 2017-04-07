@@ -13,44 +13,34 @@ The first Question I asked my friend, we'll call him Jim, was how he got into pi
 
 Piracy is a debate that many people have been affecting by, and as a result many people have opinions on. And when this is the case it not only causes for some ugly debates, and a hot button topic, but also becomes a seed for ignorance. One thing that I have taken from this interview is that many people seem to be so ingrained in their beliefs that they are unable to see the other side of the argument and any good points that they may to make. Our interviewee, was clearly very out of touch, and angry toward the musicians side of the arguments and the things that they had to say. This seems to go the other way as well, as you rarely head about the college students and others who may not be able to listen to the music that they do if not for piracy. Piracy is a major issue in our 21st century world, and it seems to be that that won't be changing anytime soon.
 
-Q: How did you get into pirating material, why didn't you simply buy, either through itunes, or a streaming service?
+_Q:_ How did you get into pirating material, why didn't you simply buy, either through itunes, or a streaming service?
+_A:_ I got into it because I'm a lazy, cheap son of a b----. Why should I pay for something when I can get it for free? Lets say I like 200 songs, I would be paying a 1.29 each which is 258 dollars. I don't have the kind of money to spend on music, I need to use that money to do other things.
 
-A: I got into it because I'm a lazy, cheap son of a b----. Why should I pay for something when I can get it for free? Lets say I like 200 songs, I would be paying a 1.29 each which is 258 dollars. I don't have the kind of money to spend on music, I need to use that money to do other things.
+_Q:_ What is the major type of material that you pirate? (music, movies, textbooks, etc.)?
+_A:_ I mainly pirate Music and movies but every once and awhile I'll pirate textbooks. Its ridiculous to pay so much for a text book when my teachers only use one paragraph on one page in the entire book.
 
-Q: What is the major type of material that you pirate? (music, movies, textbooks, etc.)?
+_Q:_ Have you ever had any profound experiences with pirated any type of material?
+_A:_ I've never had a bad experience and Ive always gotten what I've wanted without and problems or complications.
 
-A: I mainly pirate Music and movies but every once and awhile I'll pirate textbooks. Its ridiculous to pay so much for a text book when my teachers only use one paragraph on one page in the entire book.
+_Q:_ What benefits have you personally enjoyed as a result of piracy of any kind?
+_A:_ I get a ton of free shit and it takes about as long as buying the pirated material. I've also been able to greatly expand the artists I listen to, since I don't have to pay for the music, I can afford to listen to music I'm not sure I'll like, then just delete it if I don't like it. I've discovered a lot of new artists cause of this. It doesn't save me time but it definitely saves me money.
 
-Q: Have you ever had any profound experiences with pirated any type of material?
+_Q:_ As someone who has benefited from Internet piracy, if you were to talk with someone who is anti-piracy about the issue, what your main point be to back up your stance?
+_A:_ Why do companies charge so much? $60 bucks for a dvd you can get online? You can watch it once and not pay whereas with a dvd you will watch it once and then have a dvd you aren't willing to use.
 
-A: I've never had a bad experience and Ive always gotten what I've wanted without and problems or complications.
+_Q:_ In the Sixth Annual BSA-IDC Global Software Piracy Study (2009) it was found that in North American alone (the region with the lowest rate of piracy) software piracy alone cost companies $10.4 billion. Does that fact change how you think about piracy at all?
+_A:_ It's true that piracy costs companies money and hurts the business, but I don't care about those companies. For every one person who pirates the product at least ten would buy the same product, it's not like these huge companies can't afford to lose a little money, plus, most of that money that they are losing is to people who can't afford their product to begin with.
 
-Q: What benefits have you personally enjoyed as a result of piracy of any kind?
+_Q:_ Do you believe that piracy should be legal, or that the punishments should simply be relaxed?
+_A:_ I think the punishments should be relaxed because its stupid to go to prison for pirating some music.
 
-A: I get a ton of free shit and it takes about as long as buying the pirated material. I've also been able to greatly expand the artists I listen to, since I don't have to pay for the music, I can afford to listen to music I'm not sure I'll like, then just delete it if I don't like it. I've discovered a lot of new artists cause of this. It doesn't save me time but it definitely saves me money.
+_Q:_ Have you, or someone who know, ever been a victim of piracy of any kind (music, movie, textbooks, etc.)?
+_A:_ I don't know people. Who do you think I am? Joe Biden?
 
-Q: As someone who has benefited from Internet piracy, if you were to talk with someone who is anti-piracy about the issue, what your main point be to back up your stance?
+_Q:_ Do you ever feel any sympathy towards the artists whose music you are taking for free?
+_A:_ What?!?!?!?!? Why would I have any sympathy for some millionaire making millions off music? Most music artists these days hardly produce their own music by themselves so why should I pay them for music that probably isn't all that original.
 
-A: Why do companies charge so much? $60 bucks for a dvd you can get online? You can watch it once and not pay whereas with a dvd you will watch it once and then have a dvd you aren't willing to use.
-
-Q: In the Sixth Annual BSA-IDC Global Software Piracy Study (2009) it was found that in North American alone (the region with the lowest rate of piracy) software piracy alone cost companies $10.4 billion. Does that fact change how you think about piracy at all?
-
-A: It's true that piracy costs companies money and hurts the business, but I don't care about those companies. For every one person who pirates the product at least ten would buy the same product, it's not like these huge companies can't afford to lose a little money, plus, most of that money that they are losing is to people who can't afford their product to begin with.
-
-Q: Do you believe that piracy should be legal, or that the punishments should simply be relaxed?
-
-A: I think the punishments should be relaxed because its stupid to go to prison for pirating some music.
-
-Q: Have you, or someone who know, ever been a victim of piracy of any kind (music, movie, textbooks, etc.)?
-
-A: I don't know people. Who do you think I am? Joe Biden?
-
-Q: Do you ever feel any sympathy towards the artists whose music you are taking for free?
-
-A: What?!?!?!?!? Why would I have any sympathy for some millionaire making millions off music? Most music artists these days hardly produce their own music by themselves so why should I pay them for music that probably isn't all that original.
-
-Q: Do you believe that there can every be any resolution, maybe a compromise between the two sides, or will there always be a struggle between the artists and the pirates?
-
-A: There will always be a struggle because nobody wants to pay for a product regardless of the price no matter how minuscule or large the price is.
+_Q:_ Do you believe that there can every be any resolution, maybe a compromise between the two sides, or will there always be a struggle between the artists and the pirates?
+_A:_ There will always be a struggle because nobody wants to pay for a product regardless of the price no matter how minuscule or large the price is.
 
 <a title="Criminal" href="https://flickr.com/photos/evdg/15317533">Criminal</a> flickr photo by <a href="https://flickr.com/people/evdg">Elijah</a> shared under a <a href="https://creativecommons.org/licenses/by/2.0/">Creative Commons (BY) license</a>
