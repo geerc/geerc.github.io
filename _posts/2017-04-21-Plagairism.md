@@ -5,7 +5,7 @@ subtitle: (creative subtitle)
 bigimg: /img/papers.jpg
 ---
 
-### TL;DR:
+#### TL;DR:
 
 While almost everyone that you talk to would agree that plagiarism is a major issue, and a growing one at that, very few people would be able to say that they, or someone that they know, is in the process of orchestrating a revolutionary solution. Almost every college, high school, workplace, etc. uses the same approach to dealing with those who plagiarize. Almost everywhere that you go will approach the punishment of plagiarism from either a moral or criminal standard. From the moral side we see colleges implementing honor codes, and thus relying on the good morals of the students to curb plagiarism. The other popular method is to write up regulations about plagiarism, and treat them essentially as the law of the land, accordingly punishing those who break that law. While both of these approaches may seem logical, neither one is perfect, rather both are far from it.
 
