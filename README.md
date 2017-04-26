@@ -1,6 +1,6 @@
 This repository contains the source code for the web site of Christian Geer, a student at Allegheny College. This site was created with the help of the Beautiful Jekyll template which can be found on git hub. If you wish to use this website as starting point for your own use, read the following instructions.
 
-###1. Configuring GitHub
+### 1. Configuring GitHub
 
 First you must create a GitHub, if you already have one you may skip this step. To create an account simply go to github.com and click on the green 'Sign Up' button.
 
