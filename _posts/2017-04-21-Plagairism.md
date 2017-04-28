@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Giving College Papers a Purpose
-subtitle: TBD
+title: Ending Plagiarism One Paper at a Time
+subtitle: How Giving purpose to College Papers Can Fight Plagiarism
 bigimg: /img/papers.jpg
 ---
 
-#### TL;DR: By making college students more accountable for their work, colleges can decrease the prevalence of plagiarism on campus.
+#### TL;DR: By making college student's available to those other than the professor, colleges can decrease the prevalence of plagiarism on campus.
 
 While almost everyone can agree that plagiarism is a major issue, and a growing one at that, there are few people in the process of orchestrating a revolutionary solution. Almost every college, high school, workplace, etc. attacks plagiarism from one of two front; relying on either morality or fear of punishment to deter plagiarism. From the moral side we see colleges implementing honor codes, and thus relying on the good morals of the students to themselves curb plagiarism. The other popular method is to write up regulations about plagiarism, accordingly punishing those who break these rules. While both of these approaches may seem logical, neither one is perfect, rather they are far from it.
 
