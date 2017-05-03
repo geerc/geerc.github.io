@@ -21,9 +21,9 @@ Throughout the campaign trail of the 2016 election, one of Donald Trumps favorit
 
 <iframe src="//fred.stlouisfed.org/graph/graph-landing.php?g=dAuW&width=670&height=475" scrolling="no" frameborder="0" style="overflow:hidden; width:670px; height:525px;" allowTransparency="true"></iframe>
 
-This loss of 128,000 jobs is certainly something to be concerned about until further detail are explored. Details such as the fact that in 2015 there were 769 thousand jobs in renewable energy in the U.S. (International Renewable Energy Agency), approximately 4 times as many than the most amount of jobs the coal industry has provided in the last 30 odd years. In this case the process of creative destruction not only brought us incredible technology that could help extend the life of the planet, but also created millions of jobs at the same time. 
+This loss of 128,000 jobs is certainly something to be concerned about until further detail are explored. Details such as the fact that in 2015 there were 769 thousand jobs in renewable energy in the U.S. (International Renewable Energy Agency), approximately 4 times as many than the most amount of jobs the coal industry has provided in the last 30 odd years. In this case the process of creative destruction not only brought us incredible technology that could help extend the life of the planet, but also created millions of jobs at the same time.
 
-There is no way to stop or to reverse creative destruction, and there is no reason that we should want to. In example such as the decline of the coal industry, along with incredible new technology many new industries have emerged, leading to hundreds of thousands of new jobs to be created.
+There is no way to stop or to reverse creative destruction, and there is no reason that we should want to. The advancement of technology is integral to our future, and there should be no reason that one should wish to stand in the way of it. In an example such as the decline of the coal industry, along with incredible new technology, many new industries have emerged, and thus leading to hundreds of thousands of new jobs, with more on the way.
 
  Bercovici, Jeff. "Amazon Vs. Book Publishers, By The Numbers." Forbes. Forbes Magazine, 12 Feb. 2014. Web. 03 May 2017. <https://www.forbes.com/sites/jeffbercovici/2014/02/10/amazon-vs-book-publishers-by-the-numbers/#50fac3c04ef9>.
 
